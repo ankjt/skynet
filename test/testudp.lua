@@ -21,3 +21,4 @@ skynet.start(function()
 	skynet.fork(server)
 	skynet.fork(client)
 end)
+a
